@@ -1,6 +1,11 @@
 shopify_app:
-  name: "My Shopify App"
+  name: "Juice Society Shipping"
   scopes:
-    - "some_scope"
+    - "read_products"
+    - "read_shipping"
+    - "write_shipping"
+    - "read_checkouts"
+    - "write_checkouts"
+    - "read_price_rules"
   webhooks:
     - "some_webhook"

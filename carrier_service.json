@@ -1,0 +1,7 @@
+{
+    "carrier_service": {
+    "name": "Juice Society Carrier",
+    "callback_url": "https:\/\/d46f005a.ngrok.io/rates",
+    "service_discovery": true
+    }
+}
